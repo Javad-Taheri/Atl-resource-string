@@ -52,3 +52,5 @@ The goal is to make localized Win32/ATL code shorter and easier to read while av
 
 ## Status
 This is a small experimental/helper project and a proposal for a more convenient resource-string API for ATL/Win32.
+
+Simple implementation is in include/atlstrhelper.h
